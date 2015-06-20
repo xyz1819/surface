@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SimpleSymbolDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SymbolDefinition-1.1.0.xsd" version="1.1.0">
+  <Name>railroad rails</Name>
+  <Graphics>
+    <Path>
+      <Geometry>
+        M 0.0,-2
+        L 3.0,-2
+        M 1.5,-2
+        L 1.5, 2
+		M 0.0, 2
+		L 3.0, 2
+      </Geometry>
+      <LineColor>ffffffff</LineColor>
+    </Path>
+  </Graphics>
+  <LineUsage>
+    <VertexControl>'OverlapWrap'</VertexControl>
+    <Repeat>3.0</Repeat>
+  </LineUsage>
+  <ParameterDefinition/>
+</SimpleSymbolDefinition>

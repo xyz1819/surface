@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SimpleSymbolDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SymbolDefinition-1.1.0.xsd" version="1.1.0">
+   <Name>DASH45</Name>
+   <Graphics>
+    <Path>
+     <Geometry>M 0,0 L 1,1</Geometry>
+     <LineColor>0xff000000</LineColor>
+	 <LineWeight>0.1</LineWeight>
+    </Path>
+   </Graphics>
+   <AreaUsage>
+    <RepeatX>1.0</RepeatX>
+    <RepeatY>1.0</RepeatY>
+   </AreaUsage>
+  </SimpleSymbolDefinition>
+ 

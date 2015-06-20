@@ -1,0 +1,454 @@
+{
+	"StyleRules": [
+		{
+			"Name": "Building Facades",
+			"Description": "Default Rule",
+			"TargetType": "BUILDINGS",
+			"Filter": "",
+			"Styles": [
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Abigail:Arrangement1",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Abigail:Arrangement2",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Abigail:Arrangement3",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Abigail:Arrangement4",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Abigail:penthouse",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Abigail:penthouse2",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Abischag:4 Windows",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Abischag:3 Windows",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Abischag:3 Windows balc",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Abischag:3 windows 1 balc",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Abischag:window mix",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Abischag:penthouse",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Abraham:Arrangement1",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Brick/Achilles:Arrangement1",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Brick/Achilles:no doors",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Angelo:Arrangement_medium",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Angelo:Arrangement_small",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Angelo:Arrangement_x-treme",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Angelo:Arrangement_normal",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Angelo:Arrangement_wall",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Antenor:Arrangement1",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Antenor:penthouse",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Antigonis:Arrangement1",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Apemantus:Arrangement 1",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Apemantus:Arrangement small",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Balthasar:Arrangement1",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Balthasar:no door/balc",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Brick/Barracuda:arrangement1",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Brick/Biron:arrangement1",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Boomslang:standard",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Boomslang:2nd arr",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Caius:standard",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Caius:exp-arrangement",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Cloe:Standard",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Cloe:triple win",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Brick/Conan:Arrangement1",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Brick/Costard:standard",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/David:Arrangement1",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Brick/Dina:Arrangement1",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Brick/Dina:Arrangement2",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Elisabeth:Arrangement1",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Elisabeth:Arrangement2",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Marble & Stone/Elisabeth:Arrangement3",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Ezra:arrangement1",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Ezra:Arrangement2",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Johanna:Arrangement1",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Johanna:Arrangement2",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Johanna:no_door",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Johanna:Arrangement3",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Facade/Concrete & Glass/Johanna:no deco",
+						"Probability": 1
+					}
+				}
+			]
+		},
+		{
+			"Name": "City Furniture Style",
+			"Description": "Default Rule",
+			"TargetType": "CITY_FURNITURE",
+			"Filter": "",
+			"Styles": [
+				{
+					"Style": {
+						"ID": "3D Model/Traffic & Barriers/Bitt",
+						"Probability": 1
+					}
+				}
+			]
+		},
+		{
+			"Name": "Coverage Style",
+			"Description": "Default Rule",
+			"TargetType": "COVERAGES",
+			"Filter": "",
+			"Styles": [
+				{
+					"Style": {
+						"ID": "Material/Land Cover/Field Grass",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Material/Land Cover/Tall Grass",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Material/Land Cover/Tallus",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Material/Land Cover/White Cobblestone",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Material/Land Cover/Brown Tallus",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Material/Land Cover/Worn White Brick",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Material/Land Cover/Brown Square Tile",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Material/Roadway/Surface Large, Loose Cobblestone 1w 1h",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Material/Roadway/Surface Grey Inlay Stone 1w 1h",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "Material/Land Cover/Riverstone",
+						"Probability": 1
+					}
+				}
+			]
+		},
+		{
+			"Name": "Railway Style",
+			"Description": "Default Rule",
+			"TargetType": "RAILWAYS",
+			"Filter": "",
+			"Styles": [
+				{
+					"Style": {
+						"ID": "Railway/Railway",
+						"Probability": 1
+					}
+				}
+			]
+		},
+		{
+			"Name": "Tree Style",
+			"Description": "Default Rule",
+			"TargetType": "TREES",
+			"Filter": "",
+			"Styles": [
+				{
+					"Style": {
+						"ID": "3D Model/Vegetation/Tilia Cordata",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "3D Model/Vegetation/Quercus Robur",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "3D Model/Vegetation/Syagrus Romanzoffiana",
+						"Probability": 1
+					}
+				},
+				{
+					"Style": {
+						"ID": "3D Model/Vegetation/Aesculus",
+						"Probability": 1
+					}
+				}
+			]
+		},
+		{
+			"Name": "Barrier Style",
+			"Description": "Default Rule",
+			"TargetType": "BARRIERS",
+			"Filter": "",
+			"Styles": [
+				{
+					"Style": {
+						"ID": "Barrier/Grey Barrier",
+						"Probability": 1
+					}
+				}
+			]
+		}
+	]
+}

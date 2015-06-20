@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SimpleSymbolDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SymbolDefinition-1.1.0.xsd" version="1.1.0">
+  <Name>road marking line</Name>
+  <Graphics>
+    <Path>
+      <Geometry>
+        M 0.00,-0.05 L 0.00,0.05 L 1.00,0.05 L 1.00,-0.05 Z
+      </Geometry>
+      <FillColor>ffffffff</FillColor>
+    </Path>
+  </Graphics>
+  <LineUsage>
+    <VertexControl>'OverlapWrap'</VertexControl>
+    <Repeat>1.00</Repeat>
+  </LineUsage>
+  <ParameterDefinition/>
+</SimpleSymbolDefinition>
